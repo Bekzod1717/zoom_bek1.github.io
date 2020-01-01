@@ -1,0 +1,19 @@
+<svg id="fb" xmlns="http://www.w3.org/2000/svg" width="49" height="49" viewBox="0 0 49 49">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #34363a;
+        stroke: #585b60;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #d0d1d2;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_1_copy_10" data-name="Ellipse 1 copy 10" class="cls-1" cx="24.297" cy="24.5" r="20.953"/>
+  <path id="Facebook" class="cls-2" d="M832.757,10161.3h-3.873v-1.8s-0.216-1.8,1.039-1.8h2.55v-3.8h-4.342s-3.636,0-3.636,3.6c0,0.7,0,2.1-.009,3.8h-2.494v3.1h2.488c-0.014,4.8-.032,10.2-0.032,10.2h4.436v-10.2h2.928Z" transform="translate(-803 -10140)"/>
+</svg>

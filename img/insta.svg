@@ -1,0 +1,19 @@
+<svg id="insta" xmlns="http://www.w3.org/2000/svg" width="49" height="49" viewBox="0 0 49 49">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #34363a;
+        stroke: #585b60;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #d0d1d2;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_1_copy_13" data-name="Ellipse 1 copy 13" class="cls-1" cx="24.91" cy="24.5" r="20.97"/>
+  <path id="Instagram_Social_Network_Logo_Of_Photo_Camera" data-name="Instagram Social Network Logo Of Photo Camera" class="cls-2" d="M1017.3,10154.7h14.99a2.555,2.555,0,0,1,2.59,2.6v15a2.555,2.555,0,0,1-2.59,2.6H1017.3a2.555,2.555,0,0,1-2.59-2.6v-15a2.555,2.555,0,0,1,2.59-2.6h0Zm12.11,2.2a1,1,0,0,0-.91,1v2.1a0.9,0.9,0,0,0,.91.9h2.28a0.9,0.9,0,0,0,.9-0.9v-2.1a0.987,0.987,0,0,0-.9-1h-2.28Zm3.19,6.3h-1.77a6.584,6.584,0,0,1,.26,1.8,6.281,6.281,0,0,1-12.55,0,6.584,6.584,0,0,1,.26-1.8h-1.85v8.6a0.83,0.83,0,0,0,.8.8h14.05a0.83,0.83,0,0,0,.8-0.8v-8.6h0Zm-7.79-2.4a3.951,3.951,0,1,0,4.06,3.9A4.017,4.017,0,0,0,1024.81,10160.8Z" transform="translate(-1000 -10140)"/>
+</svg>
